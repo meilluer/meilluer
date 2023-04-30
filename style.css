@@ -1,0 +1,11 @@
+div{
+  color: black; 
+}
+.titl{
+    text-align: center;
+}
+.elel{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 6%;
+}
